@@ -2,6 +2,18 @@
     background: black;
 }
 
+.imput1 {
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+    padding: 18px
+}
+
+.botones {
+    display: flex;
+    justify-content: center;
+}
+
 .resultado {
     display: flex;
     background-color: white;
