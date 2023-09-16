@@ -1,0 +1,35 @@
+.resultado {
+    display: flex;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    width: 66px;
+    text-align: center;
+}
+.resultado1 {
+    display: flex;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    width: 66px;
+    text-align: center;
+}
+
+.resultado2 {
+    display: flex;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    width: 66px;
+    text-align: center;
+}
+
+.resultado3 {
+    display: flex;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    width: 75%;
+    text-align: center;
+}
+
